@@ -1,0 +1,9 @@
+.local/
+local-only/
+.agents/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+Thumbs.db
+.DS_Store
