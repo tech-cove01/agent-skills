@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "skills": [
+    {"name":"github-profile-polish","path":"skills/github-profile-polish","description":"GitHub 个人主页设计与本地预览","license":"MIT","source":{"repository":"https://github.com/shi-felix/skills","path":"github-profile-polish","revision":"d2e4717b7b71d9dff1c2269cc9327bc5acf8ecd9"}},
+    {"name":"workspace-delivery","path":"skills/workspace-delivery","description":"项目规格、票据、实现、审查与提交","license":"MIT","source":{"kind":"workspace-authored"}},
+    {"name":"typescript-pro","path":"skills/typescript-pro","description":"TypeScript 类型设计与类型安全","license":"MIT","source":{"repository":"https://github.com/Jeffallan/claude-skills","path":"skills/typescript-pro","revision":"882ef55e377dbf9a4dbe496bb41ac6ccd0e555cf"}},
+    {"name":"sql-pro","path":"skills/sql-pro","description":"SQL 查询、数据库结构与优化","license":"MIT","source":{"repository":"https://github.com/Jeffallan/claude-skills","path":"skills/sql-pro","revision":"882ef55e377dbf9a4dbe496bb41ac6ccd0e555cf"}},
+    {"name":"playwright-expert","path":"skills/playwright-expert","description":"浏览器交互与端到端验证","license":"MIT","source":{"repository":"https://github.com/Jeffallan/claude-skills","path":"skills/playwright-expert","revision":"882ef55e377dbf9a4dbe496bb41ac6ccd0e555cf"}},
+    {"name":"vercel-react-best-practices","path":"skills/vercel-react-best-practices","description":"React 与 Next.js 性能实践","license":"MIT","source":{"repository":"https://github.com/vercel-labs/agent-skills","path":"skills/react-best-practices","revision":"063bee94c3f4df8453406c830b0a7df0f2860278"}}
+  ]
+}
